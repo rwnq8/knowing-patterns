@@ -6,7 +6,7 @@ A free, anti-self-help book about pattern literacy, epistemology, and seeing cle
 
 ## Read the Book
 
-The book is available as a static site at **[knowing-patterns.github.io](https://knowing-patterns.github.io)** (once deployed).
+The book is available as a static site at **[rwnq8.github.io/knowing-patterns](https://rwnq8.github.io/knowing-patterns/)** (once deployed).
 
 Or read the source markdown files directly in the `Knowing Patterns` directory.
 
